@@ -6,3 +6,12 @@ p.best{
   color: green;
   font-weight: bold;
 }
+.important{
+  color: yellow;
+  font-style: italic;
+}
+.unimportant{
+  background-color: red;
+  font-style: oblique;
+  text-decoration-line: underline;
+}
