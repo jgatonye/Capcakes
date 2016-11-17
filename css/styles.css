@@ -15,3 +15,19 @@ p.best{
   font-style: oblique;
   text-decoration-line: underline;
 }
+.john{
+  color: pink;
+  font-weight: bolder;
+}
+.cate{
+  color: #33ccff;
+  font-style: italic;
+}
+.john{
+  color: #ff99ff;
+  font-weight: lighter;
+}
+.nakumatt{
+  color: #66ffff;
+  background-color: #ff3399;
+}
