@@ -31,3 +31,12 @@ p.best{
   color: #66ffff;
   background-color: #ff3399;
 }
+img.java {
+  float: right;
+  height: 10%;
+  width: 15%;
+}
+img.javascript{
+  height: 10%;
+  width: 9%;
+}
